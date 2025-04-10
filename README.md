@@ -108,3 +108,8 @@ etl-project/
 3. Use the provided SQL scripts in the `sql/` folder to clean and query the data.
 
 ---
+
+## 📁 Files
+1. <a href = 'https://github.com/Etishasri/ETL---Project/blob/main/ETL%20Project/Data/netflix_titles.csv'> Netflix_csv </a> file
+2. <a href = 'https://github.com/Etishasri/ETL---Project/blob/main/ETL%20Project/Notebooks/Netflix%20Data.ipynb'> Python jupyter notebook </a> file
+3. <a href = 'https://github.com/Etishasri/ETL---Project/blob/main/ETL%20Project/SQL/Netfilx_data_cleaning.sql'> MySql Workbench </a> file
