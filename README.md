@@ -110,6 +110,6 @@ etl-project/
 ---
 
 ## 📁 Files
-1. <a href = 'https://github.com/Etishasri/ETL---Project/blob/main/ETL%20Project/Data/netflix_titles.csv'> Netflix_csv </a> file
-2. <a href = 'https://github.com/Etishasri/ETL---Project/blob/main/ETL%20Project/Notebooks/Netflix%20Data.ipynb'> Python jupyter notebook </a> file
-3. <a href = 'https://github.com/Etishasri/ETL---Project/blob/main/ETL%20Project/SQL/Netfilx_data_cleaning.sql'> MySql Workbench </a> file
+1. <a href = 'https://github.com/Etishasri/ETL---Project/blob/main/ETL%20Project/Data/netflix_titles.csv'> Netflix_csv </a> File (Sample Data)
+2. <a href = 'https://github.com/Etishasri/ETL---Project/blob/main/ETL%20Project/Notebooks/Netflix%20Data.ipynb'> Python jupyter notebook </a> File (Extraction of data from csv file)
+3. <a href = 'https://github.com/Etishasri/ETL---Project/blob/main/ETL%20Project/SQL/Netfilx_data_cleaning.sql'> MySql Workbench </a> File (Cleaned the data and created tables)
