@@ -90,8 +90,7 @@ etl-project/
 ├── notebooks/
 │   └── load_to_mysql.ipynb    # Python script to load data
 ├── sql/
-│   ├── create_tables.sql      # MySQL table schema
-│   └── queries.sql            # Analysis queries
+│   ├── create_tables.sql      # MySQL table schema and Analysis Queries
 ```
 
 ---
